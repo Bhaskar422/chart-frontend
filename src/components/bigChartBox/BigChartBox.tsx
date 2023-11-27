@@ -1,6 +1,6 @@
 import { Area, AreaChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
-import "./bigChartBox.scss";
 import { bigChartData as data } from "../../data";
+import "./bigChartBox.scss";
 
 const BigChartBox = () => {
   return (
